@@ -109,7 +109,7 @@ void setup()
 
     delay(1000);
 
-    // 64kHz
+    // 76kHz
     hw_timer_t *timer = timerBegin(0, 21, true);
     timerAttachInterrupt(timer, &onTimer, true);
     timerAlarmWrite(timer, 50, true);
