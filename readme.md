@@ -7,8 +7,8 @@ This program for:
 * [Grove - Infrared Emitter](http://wiki.seeedstudio.com/Grove-Infrared_Emitter/)
 * [Grove - Infrared Receiver](http://wiki.seeedstudio.com/Grove-Infrared_Receiver/)
 
-This program is based on [IRSendRev](https://github.com/Seeed-Studio/IRSendRev)  
-For more information, see [my Qiita](). (in Japanese)
+This program is based on [IRSendRev](https://github.com/Seeed-Studio/IRSendRev). 
+For more information, see [my Qiita](https://qiita.com/hakua-doublemoon/items/6545a2ca84d0dc36b87b). (in Japanese)
 
 # License: The MIT License
 Copyright 2018 hakua-doublemoon 
@@ -19,5 +19,9 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+
+<br>
+
+---
 
 LICENSE.txt was come from IRSendRev.

@@ -31,7 +31,6 @@ void onTimer_read()
         return;
     }
 
-    irdata = digitalRead(irparams.recvpin);
     ir_read();
 }
 
